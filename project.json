@@ -1,5 +1,8 @@
 [
-    {"name": "JSКнопка1", "file": "b1"},
+    {"name": "SOFTZOR", "file": "b1"},
     {"name": "MSКнопка2", "file": "b2e"},
-    {"name": "SZКнопка3", "file": "s"}
+    {"name": "SZКнопка3", "file": "s"},
+    {"name": "SZКнопка4", "file": "s"},
+    {"name": "SZКнопка5", "file": "s"}
+    
 ]
