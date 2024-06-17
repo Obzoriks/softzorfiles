@@ -4,6 +4,6 @@
     {"name": "SZКнопка3", "file": "s"},
     {"name": "КЛИКНИ СЮДА", "file": "s"},
     {"name": "Подержка", "file": "Support.py"}
-    
+    ,{"name":"Проверка гита","file":"Test.py"}
 
 ]
